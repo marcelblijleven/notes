@@ -1,5 +1,5 @@
 # til
 > Today I learned
 
-# Notes
+## Notes
 Inspired by [thoughtbot/til](https://github.com/thoughtbot/til)
