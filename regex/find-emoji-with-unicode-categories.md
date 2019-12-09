@@ -10,5 +10,5 @@ The important parts are:
 ```
 \p{Emoji}
 ```
-And the trailing `u` at the end of the regex
+And the `u` flag at the end of the regex, which stands for `unicode`
 
