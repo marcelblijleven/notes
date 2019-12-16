@@ -4,7 +4,7 @@ Perform bitwise calculations on integers by converting them to binary and runnin
 | Operator | Description         |
 |----------|---------------------|
 | &        | Bitwise AND         |
-| |        | Bitwise OR          |
+| \|       | Bitwise OR          |
 | ~        | Bitwise NOT         |
 | ^        | Bitwise XOR         |
 | >>       | Bitwise right shift |
