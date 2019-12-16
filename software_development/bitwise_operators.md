@@ -13,6 +13,15 @@ Perform bitwise calculations on integers by converting them to binary and runnin
 ## Bitwise AND
 Returns 1 if both bits are 1, else 0
 
+```
+10 = 1010
+20 = 1110
+ & = 1010
+int('1010', 2) = 10 # Binary is base2
+
+So 10 & 14 == 10
+```
+
 ## Bitwise OR
 Returns 1 if either of the bits are 1, else 0
 
