@@ -26,4 +26,5 @@ git remote rm origin
 ```
 
 You can now rename name_new_location to origin if you want.
+`git remote rename name_new_location origin`
 
