@@ -1,4 +1,11 @@
 # Migrate GIT repository
+## Option 1
+git clone --mirror old-repo-url
+cd repo-name
+git remote set-url origin new-repo-url
+git push -f origin
+
+## Option 2
 To migrate a git repository to a new server, first checkout the repository from the 'old server'
 
 ```bash
