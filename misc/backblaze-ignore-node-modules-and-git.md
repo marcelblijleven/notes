@@ -1,7 +1,7 @@
 # Ignore node_modules and .git in Backblaze
 Add the following lines to ignore all node_modules and .git directories to 
 ```
-/Library/Backblaze.bzpkg/bzdata/bzexcluderules_editable.xml`
+/Library/Backblaze.bzpkg/bzdata/bzexcluderules_editable.xml
 ```
 
 ```
