@@ -1,0 +1,17 @@
+# LCD Driver raspberry pi 3.5"
+
+Clone this repo
+```
+git clone https://github.com/goodtft/LCD-show
+```
+
+Install xserver
+```
+sudo apt-get update && sudo apt-get install xserver-xorg-video-fbturbo
+```
+
+```
+chmod -R 755 ./LCD-show
+cd LCD-show
+sudo ./LCD35-show
+```
